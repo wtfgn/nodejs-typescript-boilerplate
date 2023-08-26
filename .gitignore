@@ -1,6 +1,7 @@
 node_modules
 dist
 .vscode
+# You may want to ignore these files when working with other people:
 # .eslintrc.cjs
 # .eslintignore
 # .prettierrc
