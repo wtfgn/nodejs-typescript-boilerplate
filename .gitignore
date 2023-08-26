@@ -1,8 +1,8 @@
 node_modules
-.eslintrc.cjs
-.eslintignore
 dist
-.prettierrc
-prettier.config.cjs
-.prettierignore
 .vscode
+# .eslintrc.cjs
+# .eslintignore
+# .prettierrc
+# prettier.config.cjs
+# .prettierignore
