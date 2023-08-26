@@ -1,0 +1,7 @@
+node_modules
+.eslintrc.cjs
+.eslintignore
+dist
+.prettierrc
+prettier.config.cjs
+.vscode
